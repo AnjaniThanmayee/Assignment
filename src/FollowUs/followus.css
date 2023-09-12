@@ -1,0 +1,20 @@
+.fuscon {
+    background-image: url("https://cdn.shopify.com/s/files/1/0086/0795/7054/files/bruno_with-girls_1920x1122_415005c2-a143-4599-b61b-651d6fe81262.jpg?v=1688200001");
+    height: 100vh;
+    width: 98vw;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fush {
+
+    font-size: 47px;
+}
+.fusp {
+    font-weight: bold;
+    font-size: 47px;
+}
+

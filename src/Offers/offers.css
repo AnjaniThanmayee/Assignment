@@ -1,0 +1,22 @@
+.offerscon {
+    background-image: url("https://headsupfortails.com/cdn/shop/files/Website_1500x.jpg?v=1688707255");
+    height: 70vh;
+    background-size: cover;
+    color: white;
+    text-align: center;
+
+}
+.oimg {
+    height: 250px;
+    padding: 10px;
+}
+
+.offersswiper {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 16px;
+    padding-top: 20px;
+}
+.offerstext {
+    padding-top: 20px;
+}
